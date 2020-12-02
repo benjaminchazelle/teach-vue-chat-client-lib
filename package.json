@@ -1,0 +1,23 @@
+{
+  "name": "teach-vue-chat-client-library",
+  "version": "1.0.2",
+  "description": "A chat client library for teaching how to make magic with Vue.js",
+  "main": "client.js",
+  "dependencies": {
+    "socket.io-client": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminchazelle/teach-vue-chat-client-library.git"
+  },
+  "author": "Benjamin Chazelle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benjaminchazelle/teach-vue-chat-client-library/issues"
+  },
+  "homepage": "https://github.com/benjaminchazelle/teach-vue-chat-client-library#readme"
+}
