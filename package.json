@@ -1,6 +1,6 @@
 {
   "name": "teach-vue-chat-client-library",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A chat client library for teaching how to make magic with Vue.js",
   "main": "client.js",
   "dependencies": {

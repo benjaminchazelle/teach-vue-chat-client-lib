@@ -1,7 +1,7 @@
 const io = require("socket.io-client");
 
 export default class MetinetChatClient {
-  constructor(endpoint = "ws://teach-vue-chat-server.glitch.me", title = "user") {
+  constructor(endpoint = "wss://teach-vue-chat-server.glitch.me", title = "user") {
     this.title = title;
     this.socket = io(endpoint);
 
